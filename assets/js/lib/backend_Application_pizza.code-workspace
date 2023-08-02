@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../backend_Application_pizza"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend_Application_pizza"
+	}
+}
